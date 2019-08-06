@@ -361,10 +361,10 @@ ul.button li a:hover{
 	left: 39%;
 }
 .find{
-	background: #333333;
+	background: #36353580;
 	position:relative;
-	border-radius:5px;
-	-webkit-border-radius: 5px;
+	border-radius:30px;
+	-webkit-border-radius: 30px;
 	-moz-border-radius: 5px;
 	-o-border-radius: 5px;
 	-ms-border-radius: 5px;
