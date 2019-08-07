@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <Controls>true</Controls>
+            <GalleryName>sld</GalleryName>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>Flash</ImageEffect>
+            <ImageHeight>270</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/Visual Slideshow/templates/backgnd/android/</ImageTemplate>
+            <ImageTemplateName>Android</ImageTemplateName>
+            <ImageWidth>400</ImageWidth>
+            <Images>true</Images>
+            <Loader>false</Loader>
+            <LoopPlay>true</LoopPlay>
+            <NavigationPos>middle</NavigationPos>
+            <PictureHeight>270</PictureHeight>
+            <PictureWidth>400</PictureWidth>
+            <PublishFileName>C:/Users/jan/Pictures/pizza/fotografies.html</PublishFileName>
+            <PublishIndex>fotografies.html</PublishIndex>
+            <PublishPath>C:/Users/jan/Pictures/pizza</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <SlideshowDelay>43</SlideshowDelay>
+            <SlideshowDuration>8</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <ThumbAlign>left</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>90</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>120</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+        </Settings>
+        <Images>
+            <Image>
+                <url>C:/Users/jan/Pictures/pizza/foto/eksoterikos-xoros.JPG</url>
+                <title>eksoterikos-xoros</title>
+            </Image>
+            <Image>
+                <url>C:/Users/jan/Pictures/pizza/foto/esoterikos-xoros.JPG</url>
+                <title>esoterikos-xoros</title>
+            </Image>
+            <Image>
+                <url>C:/Users/jan/Pictures/pizza/foto/katastima.JPG</url>
+                <title>katastima</title>
+            </Image>
+            <Image>
+                <url>C:/Users/jan/Pictures/pizza/foto/peinirli.JPG</url>
+                <title>peinirli</title>
+            </Image>
+            <Image>
+                <url>C:/Users/jan/Pictures/pizza/foto/pizza caltzone.JPG</url>
+                <title>pizza caltzone</title>
+            </Image>
+            <Image>
+                <url>C:/Users/jan/Pictures/pizza/foto/pizza chicky's.JPG</url>
+                <title>pizza chicky's</title>
+            </Image>
+            <Image>
+                <url>C:/Users/jan/Pictures/pizza/foto/pizza giros.JPG</url>
+                <title>pizza giros</title>
+            </Image>
+            <Image>
+                <url>C:/Users/jan/Pictures/pizza/foto/pizza glukia.JPG</url>
+                <title>pizza glukia</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
